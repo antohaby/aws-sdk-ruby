@@ -1,6 +1,8 @@
 Unreleased Changes
 ------------------
 
+* Feature - Aws::DynamoDB - Added resource class for `Aws::DynamoDB::Table`.
+
 2.0.31 (2015-03-19)
 ------------------
 

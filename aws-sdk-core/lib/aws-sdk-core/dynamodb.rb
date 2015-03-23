@@ -2,6 +2,7 @@ Aws.add_service(:DynamoDB, {
   api: File.join(Aws::API_DIR, 'DynamoDB.api.json'),
   docs: File.join(Aws::API_DIR, 'DynamoDB.docs.json'),
   paginators: File.join(Aws::API_DIR, 'DynamoDB.paginators.json'),
+  resources: File.join(Aws::API_DIR, 'DynamoDB.resources.json'),
   waiters: File.join(Aws::API_DIR, 'DynamoDB.waiters.json'),
 })
 
